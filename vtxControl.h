@@ -1,0 +1,2 @@
+void vtxSpiCtrl();
+void vtxSetup();
